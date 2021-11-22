@@ -15,5 +15,9 @@
     <ProjectReference Include="..\Shared\KliensDotNET_kisHF.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 
 </Project>
